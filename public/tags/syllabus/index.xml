@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syllabus on Tech, Data and Innovation</title>
+    <link>http://tdi.org/tags/syllabus/</link>
+    <description>Recent content in Syllabus on Tech, Data and Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 11:37:05 +0100</lastBuildDate>
+    
+	<atom:link href="http://tdi.org/tags/syllabus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://tdi.org/syllabus/</link>
+      <pubDate>Sat, 09 Mar 2019 11:37:05 +0100</pubDate>
+      
+      <guid>http://tdi.org/syllabus/</guid>
+      <description>Tech, Data and the Innovation Mindset Course instructor: Ghislain Mazars, gmazars@ubeeko.com
+Overview This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley. The objective is to strengthen students’ abilities to evolve in an increasingly technology minded environment where new rules and methods emerge rapidly.
+To that end, the course:  Delivers the theoretical tools and perspective to make sense of the evolutions of recent years, and prepare students for the future; Integrates an experimental component that will allow students to engage in concrete, practical assignments with a DIY mindset.</description>
+    </item>
+    
+  </channel>
+</rss>

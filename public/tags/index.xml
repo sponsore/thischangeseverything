@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tech, Data and Innovation</title>
+    <link>http://tdi.org/tags/</link>
+    <description>Recent content in Tags on Tech, Data and Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 12:41:41 +0100</lastBuildDate>
+    
+	<atom:link href="http://tdi.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archive</title>
+      <link>http://tdi.org/tags/archive/</link>
+      <pubDate>Thu, 21 Feb 2019 12:41:41 +0100</pubDate>
+      
+      <guid>http://tdi.org/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenge_of_the_week</title>
+      <link>http://tdi.org/tags/challenge_of_the_week/</link>
+      <pubDate>Mon, 04 Mar 2019 19:10:05 +0100</pubDate>
+      
+      <guid>http://tdi.org/tags/challenge_of_the_week/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>http://tdi.org/tags/dashboard/</link>
+      <pubDate>Sat, 09 Mar 2019 10:15:09 +0100</pubDate>
+      
+      <guid>http://tdi.org/tags/dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest_speakers</title>
+      <link>http://tdi.org/tags/guest_speakers/</link>
+      <pubDate>Thu, 21 Feb 2019 11:21:48 +0100</pubDate>
+      
+      <guid>http://tdi.org/tags/guest_speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://tdi.org/tags/syllabus/</link>
+      <pubDate>Sat, 09 Mar 2019 11:37:05 +0100</pubDate>
+      
+      <guid>http://tdi.org/tags/syllabus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>http://tdi.org/tags/tutorials/</link>
+      <pubDate>Sun, 03 Mar 2019 16:15:09 +0100</pubDate>
+      
+      <guid>http://tdi.org/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

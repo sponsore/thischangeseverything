@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tdi.org/syllabus/</loc>
+    <lastmod>2019-03-09T11:37:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/dashboard/</loc>
+    <lastmod>2019-03-09T10:15:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/challenge/</loc>
+    <lastmod>2019-03-04T19:10:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/jekyll/</loc>
+    <lastmod>2019-03-03T16:15:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/hugo/</loc>
+    <lastmod>2019-03-03T14:44:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/past-projects/</loc>
+    <lastmod>2019-02-21T12:41:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/guest-speaker-christophe-baroux/</loc>
+    <lastmod>2019-02-21T11:21:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/archive/</loc>
+    <lastmod>2019-02-21T12:41:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/challenge_of_the_week/</loc>
+    <lastmod>2019-03-04T19:10:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/dashboard/</loc>
+    <lastmod>2019-03-09T10:15:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/guest_speakers/</loc>
+    <lastmod>2019-02-21T11:21:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/post/</loc>
+    <lastmod>2019-03-09T11:37:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/syllabus/</loc>
+    <lastmod>2019-03-09T11:37:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/</loc>
+    <lastmod>2019-02-21T12:41:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/</loc>
+    <lastmod>2019-03-09T11:37:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tdi.org/tags/tutorials/</loc>
+    <lastmod>2019-03-03T16:15:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

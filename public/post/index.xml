@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tech, Data and Innovation</title>
+    <link>http://tdi.org/post/</link>
+    <description>Recent content in Posts on Tech, Data and Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 11:37:05 +0100</lastBuildDate>
+    
+	<atom:link href="http://tdi.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://tdi.org/syllabus/</link>
+      <pubDate>Sat, 09 Mar 2019 11:37:05 +0100</pubDate>
+      
+      <guid>http://tdi.org/syllabus/</guid>
+      <description>Tech, Data and the Innovation Mindset Course instructor: Ghislain Mazars, gmazars@ubeeko.com
+Overview This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley. The objective is to strengthen students’ abilities to evolve in an increasingly technology minded environment where new rules and methods emerge rapidly.
+To that end, the course:  Delivers the theoretical tools and perspective to make sense of the evolutions of recent years, and prepare students for the future; Integrates an experimental component that will allow students to engage in concrete, practical assignments with a DIY mindset.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>http://tdi.org/dashboard/</link>
+      <pubDate>Sat, 09 Mar 2019 10:15:09 +0100</pubDate>
+      
+      <guid>http://tdi.org/dashboard/</guid>
+      <description>Welcome to Tech, Data and the Innovation Mindset! This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley.
+Read more on the content, objectives and assessment criteria of the course in the syllabus.
+Weekly Challenge A new challenge is uploaded every week for you to practice and enhance your newly acquired skills.</description>
+    </item>
+    
+    <item>
+      <title>Challenge</title>
+      <link>http://tdi.org/challenge/</link>
+      <pubDate>Mon, 04 Mar 2019 19:10:05 +0100</pubDate>
+      
+      <guid>http://tdi.org/challenge/</guid>
+      <description> New challenge is now online and is due 5.4.2019. As a first preparation first watch the following video, then scan the QR code and try to answer the questions.  </description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>http://tdi.org/jekyll/</link>
+      <pubDate>Sun, 03 Mar 2019 16:15:09 +0100</pubDate>
+      
+      <guid>http://tdi.org/jekyll/</guid>
+      <description>What is Jekyll? Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tdi.org/hugo/</link>
+      <pubDate>Sun, 03 Mar 2019 14:44:21 +0100</pubDate>
+      
+      <guid>http://tdi.org/hugo/</guid>
+      <description>What is Hugo? Hugo is a static site generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full html website.
+Hugo makes use of Markdown files with front matter for meta data.
+A typical website of moderate size can be rendered in a fraction of a second. A good rule of thumb is that Hugo takes around 1 millisecond for each piece of content.</description>
+    </item>
+    
+    <item>
+      <title>Past Projects</title>
+      <link>http://tdi.org/past-projects/</link>
+      <pubDate>Thu, 21 Feb 2019 12:41:41 +0100</pubDate>
+      
+      <guid>http://tdi.org/past-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Speaker: Christophe Baroux</title>
+      <link>http://tdi.org/guest-speaker-christophe-baroux/</link>
+      <pubDate>Thu, 21 Feb 2019 11:21:48 +0100</pubDate>
+      
+      <guid>http://tdi.org/guest-speaker-christophe-baroux/</guid>
+      <description>The Innovation of Docker Inc.   Christophe Baroux works at Docker Inc.
+Docker Inc. is a company that leads in the containerization market, that combines enterprise-grade container platform with services to give developers and IT the freedom to build, manage and transfer applications.
+  Some of their clients include BCG Gamma, PayPal and ADP.
+In class, he guest lectured on Docker&amp;rsquo;s capabilities, the potential of a career in cloud services sales and assisted Ghislan on educating students about the world of Cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

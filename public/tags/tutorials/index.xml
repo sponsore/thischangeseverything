@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Tech, Data and Innovation</title>
+    <link>http://tdi.org/tags/tutorials/</link>
+    <description>Recent content in Tutorials on Tech, Data and Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 16:15:09 +0100</lastBuildDate>
+    
+	<atom:link href="http://tdi.org/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jekyll</title>
+      <link>http://tdi.org/jekyll/</link>
+      <pubDate>Sun, 03 Mar 2019 16:15:09 +0100</pubDate>
+      
+      <guid>http://tdi.org/jekyll/</guid>
+      <description>What is Jekyll? Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tdi.org/hugo/</link>
+      <pubDate>Sun, 03 Mar 2019 14:44:21 +0100</pubDate>
+      
+      <guid>http://tdi.org/hugo/</guid>
+      <description>What is Hugo? Hugo is a static site generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full html website.
+Hugo makes use of Markdown files with front matter for meta data.
+A typical website of moderate size can be rendered in a fraction of a second. A good rule of thumb is that Hugo takes around 1 millisecond for each piece of content.</description>
+    </item>
+    
+  </channel>
+</rss>

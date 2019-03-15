@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guest_speakers on Tech, Data and Innovation</title>
+    <link>http://tdi.org/tags/guest_speakers/</link>
+    <description>Recent content in Guest_speakers on Tech, Data and Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 11:21:48 +0100</lastBuildDate>
+    
+	<atom:link href="http://tdi.org/tags/guest_speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guest Speaker: Christophe Baroux</title>
+      <link>http://tdi.org/guest-speaker-christophe-baroux/</link>
+      <pubDate>Thu, 21 Feb 2019 11:21:48 +0100</pubDate>
+      
+      <guid>http://tdi.org/guest-speaker-christophe-baroux/</guid>
+      <description>The Innovation of Docker Inc.   Christophe Baroux works at Docker Inc.
+Docker Inc. is a company that leads in the containerization market, that combines enterprise-grade container platform with services to give developers and IT the freedom to build, manage and transfer applications.
+  Some of their clients include BCG Gamma, PayPal and ADP.
+In class, he guest lectured on Docker&amp;rsquo;s capabilities, the potential of a career in cloud services sales and assisted Ghislan on educating students about the world of Cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

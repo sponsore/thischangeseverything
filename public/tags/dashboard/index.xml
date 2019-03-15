@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard on Tech, Data and Innovation</title>
+    <link>http://tdi.org/tags/dashboard/</link>
+    <description>Recent content in Dashboard on Tech, Data and Innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 10:15:09 +0100</lastBuildDate>
+    
+	<atom:link href="http://tdi.org/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dashboard</title>
+      <link>http://tdi.org/dashboard/</link>
+      <pubDate>Sat, 09 Mar 2019 10:15:09 +0100</pubDate>
+      
+      <guid>http://tdi.org/dashboard/</guid>
+      <description>Welcome to Tech, Data and the Innovation Mindset! This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley.
+Read more on the content, objectives and assessment criteria of the course in the syllabus.
+Weekly Challenge A new challenge is uploaded every week for you to practice and enhance your newly acquired skills.</description>
+    </item>
+    
+  </channel>
+</rss>
